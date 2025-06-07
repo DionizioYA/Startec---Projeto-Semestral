@@ -4,7 +4,7 @@ Este é um projeto de loja virtual desenvolvido como parte da disciplina de Proj
 
 ## 🎯 Objetivo
 
-Criar a interface de uma loja virtual com páginas organizadas por categorias, produtos em destaque, ofertas, depoimentos de clientes e rodapé informativo. O objetivo é aplicar conhecimentos de desenvolvimento web em um projeto prático.
+Criar a interface de uma loja virtual com páginas organizadas por categorias, produtos em destaque, ofertas e rodapé informativo. O objetivo é aplicar conhecimentos de desenvolvimento web em um projeto prático.
 
 ## 🛠 Tecnologias Utilizadas
 
