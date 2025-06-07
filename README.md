@@ -1,6 +1,6 @@
 # Startec - Projeto-Semestral
 
-Este é um projeto de loja virtual desenvolvido como parte da disciplina de [Nome da Disciplina] do curso de [Seu Curso] na [Nome da Faculdade].
+Este é um projeto de loja virtual desenvolvido como parte da disciplina de Projeto em Computação Aplicada do curso de Cinência da Computação na Universidade Nove de Julho.
 
 ## 🎯 Objetivo
 
